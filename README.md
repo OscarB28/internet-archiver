@@ -70,8 +70,19 @@ A `terraform.tfvars` is required in the terraform folder containing:
 - `Dockerfile`: A docker file used to collate the pipeline into an image.
 - `requirements.txt`: A text file containing the required python libraries to run the pipeline.
 
-## Architecture Diagram
-![Alt text](architecture_diagram.png)
+## Architecture Diagrams
+
+### Overall Simplified Diagram
+![Alt text](images/Simplified-Diagram.drawio.png)
+
+### Automatic Web Scraper
+![Alt text](images/Web-Scraper.drawio.png)
+
+### Internet Archiver Website
+![Alt text](images/Internet-Archiver-Website.drawio.png)
+
+### Automatic Web Scraper
+![Alt text](images/Dashboard-Diagram.drawio.png)
 
 ## ERD Diagram
-![Alt text](erd_diagram.png)
+![Alt text](images/ERD-Diagram.png)
